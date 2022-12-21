@@ -1,0 +1,15 @@
+---
+title: "Protocolos de laboratorio"
+---
+
+### Protocolos
+
+- Extracciones 
+- PCR
+- Limpieza 
+- Revisión de calidad
+- Cuantificación 
+- Lo que hace Ale 
+- Reacciones de secuenciación 
+- Envios de muestras al extrangero 
+

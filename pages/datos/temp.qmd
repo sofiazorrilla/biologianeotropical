@@ -1,0 +1,14 @@
+---
+title: "notas"
+---
+
+Ideas para esta sección 
+
+- Organización de proyectos
+    - Proyectos en Git
+
+- Almacenamiento de datos 
+- Uso de recursos computacionales 
+
+- Servidor - makinon 
+

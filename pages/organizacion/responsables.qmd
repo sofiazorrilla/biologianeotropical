@@ -1,0 +1,34 @@
+---
+title: "Actividades colaborativas"
+---
+
+El objetivo de este documento es describir las responsabilidades compartidas y buscar un sistema para trabajar eficientemente en equipo.
+
+
+| Rol                                  | Responsabilidades                                                                                                                                         |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Supervisor de material de campo      | Generar inventario de material (qué hay y en qué estado)                                                                                                  |
+|                                      | Coordinar que los miembros del laboratorio entreguen su plan de campo del año.                                                                            |
+|                                      | Hacer lista de compra (lista de material faltante, presupuesto, ¿cotizaciones?)                                                                           |
+|                                      | Coordinar salidas de compras y supervisar la entrega de material solicitado                                                                               |
+| Supervisor de material de campo      | Coordinar que los miembros del laboratorio entreguen su plan de laboratorio del año/semestre.                                                             |
+|                                      | Generar lista de requerimientos del semestre/año                                                                                                          |
+|                                      | Cotejar con inventario existente y con Chucho, decidir qué se debe pedir este semestre                                                                    |
+|                                      | Coordinar cotizaciones y dar seguimiento a entregas                                                                                                       |
+|                                      | Actualizar lista de proveedores?                                                                                                                          |
+| Supervisor de actualización de datos | Coordinar que los datos de las salidas de campo estén completos y actualizados (metadatos geográficos de ejemplares, fotos de ejemplares, fotos de campo) |
+|                                      | Coordinar la identificación de ejemplares                                                                                                                 |
+|                                      | Coordinar la organización del almacen de muestras                                                                                                         |
+| Organizador de seminarios            | Generar agenda de seminarios para el semestre, coordinar fecha para seminarios                                                                            |
+|                                      | Agenda de talleres                                                                                                                                        |
+|                                      | Coordinar pláticas con investigadores/estudiantes externos                                                                                                |
+| Coordinador de juntas de revisión    | Organizar agenda de revisiones de avances                                                                                                                 |
+|                                      | Coordinar que los avances prometidos en las juntas de avances se entreguen                                                                                |
+|                                      | Actuar como moderador y tomar notas de fechas y compromisos                                                                                               |
+
+
+## Links
+
+[Ideas para seminarios](https://docs.google.com/document/d/19e4swJ4sY8X_eBineOM1KvL8qnr2MoBsvQxU52s7AqI/edit#)
+
+[Agenda](https://docs.google.com/spreadsheets/d/10bQan4mziejDLyiiNiYzSotDYeZph0CUL88VLLAZyCU/edit#gid=853030037)

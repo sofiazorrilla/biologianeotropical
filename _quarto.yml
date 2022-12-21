@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Biologia Neotropical"
+  page-navigation: true
+  reader-mode: true
+  sidebar:
+    style: "floating"
+    search: true
+    collapse-level: 1
+    alignment: left
+    contents:
+      - index.qmd
+      - section: "Organización"
+        contents:
+          - pages/organizacion/responsables.qmd
+      - section: "Campo"
+        contents:
+          - pages/campo/logistica.qmd
+          - pages/campo/protocolos_colecta.qmd
+          - pages/campo/seguros_medicos.qmd
+          - pages/campo/gastos.qmd
+          - pages/campo/muestreo_campo.qmd
+      - section: "Laboratorio"
+        contents:
+          - pages/laboratorio/protocolos.qmd
+          - pages/laboratorio/inventarios.qmd
+      - section: "Análisis de datos"
+        contents:
+          - pages/datos/temp.qmd
+        
+format:
+  html:
+    page-layout: full
+    theme: cosmo
+#    css: assets/css/styles.css
+    toc: true
+
+

@@ -1,0 +1,7 @@
+---
+title: "Material e inventarios"
+---
+
+- Links a listas de material y listas de contactos de proveedores
+- ¿Cómo hacer el inventario? 
+    - Tiempos para solicitar diferentes materiales 
