@@ -1,0 +1,6 @@
+---
+title: "Actividades del semestre"
+---
+
+<iframe width="900" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTPoqkC0pir1t7pbUY8tCm5bHM0jL7V2DnBG4U9JTlQiDCcLptf0IZ1aWGCxMm8IiFNJuCi4eNRa06_/pubhtml?widget=true&amp;headers=false"></iframe>
+

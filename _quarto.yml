@@ -16,6 +16,7 @@ website:
       - section: "Organización"
         contents:
           - pages/organizacion/responsables.qmd
+          - pages/organizacion/links_utiles.qmd
       - section: "Campo"
         contents:
           - pages/campo/logistica.qmd
