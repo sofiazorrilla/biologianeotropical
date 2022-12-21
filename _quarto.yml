@@ -19,6 +19,7 @@ website:
           - pages/organizacion/links_utiles.qmd
       - section: "Campo"
         contents:
+          - pages/campo/links_utiles.qmd
           - pages/campo/logistica.qmd
           - pages/campo/protocolos_colecta.qmd
           - pages/campo/seguros_medicos.qmd
@@ -26,6 +27,7 @@ website:
           - pages/campo/almacenamiento_datos.qmd
       - section: "Laboratorio"
         contents:
+          - pages/laboratorio/links_utiles.qmd
           - pages/laboratorio/protocolos.qmd
           - pages/laboratorio/inventarios.qmd
       - section: "Análisis de datos"
