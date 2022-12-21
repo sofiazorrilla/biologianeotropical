@@ -22,7 +22,7 @@ website:
           - pages/campo/protocolos_colecta.qmd
           - pages/campo/seguros_medicos.qmd
           - pages/campo/gastos.qmd
-          - pages/campo/muestreo_campo.qmd
+          - pages/campo/almacenamiento_datos.qmd
       - section: "Laboratorio"
         contents:
           - pages/laboratorio/protocolos.qmd
